@@ -1,7 +1,7 @@
 module.exports = {
   apps: [
     {
-      name: "blackyark-app",
+      name: "interplug-app",
       script: "node_modules/next/dist/bin/next",
       // instances: 2,
       // exec_mode: "cluster",

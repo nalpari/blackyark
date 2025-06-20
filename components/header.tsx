@@ -71,7 +71,7 @@ export function Header({ onNavigate, onViewModeChange, viewMode = "windowed" }: 
             <div className="w-8 h-8 bg-white rounded flex items-center justify-center">
               <span className="text-red-600 font-bold text-sm">B</span>
             </div>
-            <span className="font-bold text-lg">BLACKYAK</span>
+            <span className="font-bold text-lg">INTERPLUG</span>
             <span className="text-xs opacity-75">DESIGNED BY MOUNTAINEERS</span>
           </div>
 
@@ -284,7 +284,7 @@ export function Header({ onNavigate, onViewModeChange, viewMode = "windowed" }: 
                     </div>
                     <div className="flex items-center gap-1 p-1 hover:bg-gray-100 rounded text-xs">
                       <span className="text-blue-600">📄</span>
-                      <span>블랙야크시스템 메뉴</span>
+                      <span>인터플러그시스템 메뉴</span>
                     </div>
                     <div className="flex items-center gap-1 p-1 hover:bg-gray-100 rounded text-xs">
                       <span className="text-blue-600">📄</span>

@@ -37,8 +37,8 @@ export function LoginPage({ onLogin }: LoginPageProps) {
 
           <div className="relative h-80">
             <Image
-              src="/images/blackyak-bg.png"
-              alt="BLACKYAK Background"
+              src="/images/interplug-bg.png"
+              alt="INTERPLUG Background"
               fill
               className="object-cover"
             />
@@ -47,7 +47,7 @@ export function LoginPage({ onLogin }: LoginPageProps) {
                 <div className="w-8 h-8 bg-red-600 rounded flex items-center justify-center">
                   <span className="text-white font-bold text-sm">B</span>
                 </div>
-                <span className="text-white font-bold text-xl">BLACKYAK</span>
+                <span className="text-white font-bold text-xl">INTERPLUG</span>
               </div>
             </div>
           </div>
